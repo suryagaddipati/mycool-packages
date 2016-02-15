@@ -1,0 +1,12 @@
+vim-7.3p1 filter=lfs diff=lfs merge=lfs -text
+vim-7.3p1/bin/ex filter=lfs diff=lfs merge=lfs -text
+vim-7.3p1/bin/rview filter=lfs diff=lfs merge=lfs -text
+vim-7.3p1/bin/rvim filter=lfs diff=lfs merge=lfs -text
+vim-7.3p1/bin/view filter=lfs diff=lfs merge=lfs -text
+vim-7.3p1/bin/vim filter=lfs diff=lfs merge=lfs -text
+vim-7.3p1/bin/vimdiff filter=lfs diff=lfs merge=lfs -text
+vim-7.3p1/bin/vimtutor filter=lfs diff=lfs merge=lfs -text
+vim-7.3p1/bin/xxd filter=lfs diff=lfs merge=lfs -text
+vim-7.3p1/share/man filter=lfs diff=lfs merge=lfs -text
+vim-7.3p1/share/vim filter=lfs diff=lfs merge=lfs -text
+vim-9.3p1/ filter=lfs diff=lfs merge=lfs -text
